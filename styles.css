@@ -11,18 +11,15 @@ html {
 }
 
 body {
+    text-align: left; /* Make sure this isn't set to 'center' */
+  margin: 0;
+  padding: 0;
   background: var(--cg-grey);
   position: relative;
   min-height: 100vh;
   padding: 0;
   margin: 0;
   font-family: monospace;
-}
-
-body {
-  text-align: left; /* Make sure this isn't set to 'center' */
-  margin: 0;
-  padding: 0;
 }
 
 /* CSS for navigation */
