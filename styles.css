@@ -19,6 +19,12 @@ body {
   font-family: monospace;
 }
 
+body {
+  text-align: left; /* Make sure this isn't set to 'center' */
+  margin: 0;
+  padding: 0;
+}
+
 /* CSS for navigation */
 
 .navbar {
