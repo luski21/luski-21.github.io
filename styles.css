@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    text-align: left; /* Make sure this isn't set to 'center' */
+  text-align: left; /* Make sure this isn't set to 'center' */
   margin: 0;
   padding: 0;
   background: var(--cg-grey);
